@@ -1,7 +1,7 @@
 <template>
-  <div class="bg-white shadow-md p-4 mt-4 flex justify-center">
+  <div class="bg-white shadow-md p-4 mt-4 flex justify-center font-bold">
     <div class="w-full max-w">
-      <h2 class="text-2xl font-bold text-white bg-black p-2 text-center">Навички</h2>
+      <h2 class="text-2xl  text-white bg-black p-2 text-center">Навички</h2>
       <ul class="items-center mt-2">
         <li v-for="(skill, index) in skills" :key="index" class="flex items-center mb-5 justify-center">
           <div class="w-24 flex items-center justify-center">{{ skill.name }}</div>
