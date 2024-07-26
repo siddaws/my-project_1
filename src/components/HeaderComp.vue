@@ -12,13 +12,6 @@
           <li><a href="tel:+380960198064" class="text-xl font-bold text-black"><img src="../assets/tel.png" alt="" class="w-6 h-6"></a></li>
         </ul>
       </div>
-      <div class="flex md:hidden">
-        <button  class="text-gray-700 hover:text-blue-600 focus:outline-none">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 6h12M6 10h12m-6 4h6" />
-          </svg>
-        </button>
-      </div>
     </nav>
    
   </header>
