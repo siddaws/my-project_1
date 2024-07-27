@@ -7,7 +7,7 @@
           <div class="w-24 flex items-center justify-center text-black">{{ skill.name }}</div>
           <div class="flex ml-4">
             <div v-for="i in 5" :key="i" class="w-6 h-6 border border-gray-300 mr-1 relative">
-              <div v-if="i <= skill.level" class="bg-black absolute inset-0"></div>
+              <div v-if="i <= skill.level" class="bg-white absolute inset-0"></div>
             </div>
           </div>
         </li>
