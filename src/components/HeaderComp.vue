@@ -6,10 +6,10 @@
         <a href="/" class="ml-4 text-xl font-bold text-black">Андрій Романчук</a>
       </div>
       <div>
-        <ul class="flex space-x-8">
-          <li><a href="mailto:380637541873.a.9@gmail.com" class="text-xl font-bold text-black"><img src="../assets/gmail.png" alt="" class="w-6 h-6"></a></li>
-          <li><a href="https://t.me/Roman4uk" class="text-xl font-bold text-black"><img src="../assets/Telegram_2019_Logo.svg.png" alt="" class="w-6 h-6"></a></li>
-          <li><a href="tel:+380960198064" class="text-xl font-bold text-black"><img src="../assets/tel.png" alt="" class="w-6 h-6"></a></li>
+        <ul class="flex space-x-auto">
+          <li><a href="mailto:380637541873.a.9@gmail.com" class="text-xl font-bold text-black p-2"><img src="../assets/gmail.png" alt="" class="w-10 h-10 pl-2"></a></li>
+          <li><a href="https://t.me/Roman4uk" class="text-xl font-bold text-black p-2"><img src="../assets/Telegram_2019_Logo.svg.png" alt="" class="w-10 h-10 pl-2"></a></li>
+          <li><a href="tel:+380960198064" class="text-xl font-bold text-black p-2"><img src="../assets/tel.png" alt="" class="w-10 h-10 pl-2"></a></li>
         </ul>
       </div>
     </nav>
