@@ -25,6 +25,7 @@ export default {
         { name: 'Vue.js', level: 3 },
         { name: 'HTML, CSS', level: 4 },
         { name: 'MySql', level: 2 },
+        { name: 'C#', level: 4 },
         { name: 'Git', level: 5 }
       ]
     };
